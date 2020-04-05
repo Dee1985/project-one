@@ -19,7 +19,7 @@ X) Acknowledgements
 XI) License
 
 
-Live site: https://ryanellingson.github.io/Squirtle-Squad/
+Live site: https://dee1985.github.io/project-one/
  
 Description
 This repository was for creating an application to locate breweries while traveling. This is our first group project for our web development program. The Brew Cruz application will locate breweries in-between a starting location and ending location, with waypoints as an options. The user has the ability to input their current location, final destination and search results will produce a list of breweries (URL included when applicable) that are within those parameters. Additional functionality includes a map identifying the brewery results, turn by turn navigation with zoom capabilities and a responsive interface.
